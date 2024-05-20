@@ -1,6 +1,6 @@
 
-#This simulation code calculatate the solver utility and its impact on the tournament cost, and visually represents how budget allocation influences both metrics.
-#And statisfy model assumption that higher solver utility in the artifact leads to reduced effort costs in the tournament projects.
+#This simulation code calculate the solver utility and its impact on the tournament cost, and visually represents how budget allocation influences both metrics.
+#And satisfy model assumption that higher solver utility in the artifact leads to reduced effort costs in the tournament projects.
 
 # Librarie
 import numpy as np
